@@ -73,4 +73,5 @@
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="programming boy gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/2ToCXhj6bG7UC/giphy.gif" alt="boy programming gif" />
+
