@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mahfuz Rahman</h1>
 
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mahfuz0712&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz0712" /> 
-</p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahfuz0712" alt="mahfuz0712" />
-</div>
-
 ---
 
 ### About Me:
